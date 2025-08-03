@@ -1,2 +1,16 @@
-# VLSI-Layouts-using-Microwind
-MOS layout designs for basic logic gates using Microwind.  Contents:  NAND, NOR, Inverter layouts  Stick diagrams &amp; layout screenshots  Explanation of each layout
+# VLSI Layouts using Microwind
+
+CMOS layouts designed for basic digital circuits using Microwind software.
+
+## Contents
+- NAND Gate Layout
+- NOR Gate Layout
+- Inverter Layout
+- Stick Diagrams
+
+## Instructions
+- Open .mwf files in Microwind.
+- Simulate layouts and take screenshots of outputs.
+
+## Author
+Karunya Pabolu

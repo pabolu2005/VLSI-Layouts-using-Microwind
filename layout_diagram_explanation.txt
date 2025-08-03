@@ -1,0 +1,7 @@
+This folder describes standard CMOS layouts for basic gates using Microwind.
+
+- NAND Gate: 2-input NAND using pMOS and nMOS
+- NOR Gate: Traditional pull-up/pull-down configuration
+- Inverter: Basic CMOS inverter layout
+
+You can replicate these in Microwind or draw their stick diagrams manually.
